@@ -1,0 +1,23 @@
+//TODO: Implementieren
+.heading-container{
+    border-bottom: 0.5em solid;
+    margin-bottom: 3px;
+    padding: 5px;
+    text-align: center;
+    .wi{
+        margin-left: 1rem;
+    }
+}
+
+.heading-city{
+    margin-top: 1rem;
+    color: $color-gold;
+    font-weight: bold;
+    
+    opacity: 0.75;
+    text-transform: uppercase;
+}
+
+.heading-condition-name{
+    font-style: italic;
+}
